@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<launch>
+    <node name="example1_a" pkg="beginner_tutorials" type="example1_a"/>
+    <node name="example1_b" pkg="beginner_tutorials" type="example1_b"/>
+</launch>
+
+<!-- 函数功能：简单的launch启动文件  -->
